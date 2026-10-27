@@ -1,4 +1,4 @@
-# rag
+# RAG
 
 *Teaching machines to find context before they answer.*
 
