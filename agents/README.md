@@ -19,7 +19,7 @@ I'm an MCA student exploring the intersection of AI, software engineering, and c
 
 | Project | What it does | Stack |
 |---|---|---|
-| [campus-pilot](./campus-pilot.ipynb) | A multi-agent assistant for college campus tasks. | Python · CrewAI · LLMs |
+| - [CampusPilot](./campus-pilot/campus-pilot.ipynb) | A multi-agent assistant for college campus tasks. | Python · CrewAI · LLMs |
 
 ### 🛠️ The Toolkit
 
