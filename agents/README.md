@@ -8,20 +8,20 @@ I'm an MCA student exploring the intersection of AI, software engineering, and c
 
 ---
 
-### ⚡ What I'm Exploring
+### What I'm Exploring
 
 - **AI Agents** — building systems that reason, use tools, and get things done.
 - **Multi-Agent Systems** — specialized agents collaborating to solve problems.
 - **LLM Engineering** — turning language models into useful applications.
 - **Hackathon Projects** — rapid prototyping, unconventional ideas, real implementations.
 
-### 🧪 Experiments
+### Experiments
 
-| Project | What it does | Stack |
+| **Project** | **What it does** | **Notebook** |
 |---|---|---|
-| - [CampusPilot](./campus-pilot/campus-pilot.ipynb) | A multi-agent assistant for college campus tasks. | Python · CrewAI · LLMs |
+| [CampusPilot](./campus-pilot/README.md) | A multi-agent assistant for college campus tasks. | [Open notebook](./campus-pilot/campus-pilot.ipynb) |
 
-### 🛠️ The Toolkit
+### The Toolkit
 
 `Python` · `CrewAI` · `LLMs` · `APIs` · `Problem Solving`
 
@@ -32,4 +32,3 @@ I'm an MCA student exploring the intersection of AI, software engineering, and c
 **Status:** Always experimenting. Always building.
 
 [← side-quests](../README.md)
-
