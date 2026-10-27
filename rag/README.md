@@ -6,6 +6,12 @@ An exploration of Retrieval-Augmented Generation (RAG) — connecting language m
 
 Learning by building, experimenting, and figuring out what happens between a question and an answer.
 
+### Experiments
+
+| Project | Focus | Notebook |
+|---|---|---|
+| [RAG Mark 1](./rag-mark-1/README.md) | PDF text extraction | [Open notebook](./rag-mark-1/rag-mark-1.ipynb) |
+
 ### Exploring
 
 - **Retrieval** — finding relevant information from a knowledge source.
@@ -15,12 +21,10 @@ Learning by building, experimenting, and figuring out what happens between a que
 
 ### The Stack
 
-`Python` · `Embeddings` · `Vector Search` · `LLMs`
+`Python` · `PDF Processing` · `Embeddings` · `Vector Search` · `LLMs`
 
 ---
 
 *Less guessing. More context.*
 
 [← side-quests](../README.md)
-
-
