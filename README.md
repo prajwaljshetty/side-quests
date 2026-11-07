@@ -21,14 +21,4 @@ From turning raw documents into searchable knowledge to building AI agents that 
 
 No pressure to get everything right on the first try. The goal is to understand the technology beneath the abstraction, not just make the code run.
 
-### 🧠 The Philosophy
-
-- **Explore beyond the syllabus.** Learn what curiosity leads to.
-- **Understand before abstracting.** Know what's happening under the hood.
-- **Build to learn.** Theory gives direction; experiments reveal the details.
-- **Keep the failures.** Every broken attempt teaches something worth keeping.
-
----
-
 *Main quests build the destination. Side quests build the developer.*
-
